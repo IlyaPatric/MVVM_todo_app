@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVVMTodoApp</string>
+    <string name="delete_str">Delete</string>
+    <string name="add_str">Add</string>
+    <string name="save_str">Save</string>
+    <string name="title_str">Title</string>
+    <string name="description_str">Description</string>
+</resources>
